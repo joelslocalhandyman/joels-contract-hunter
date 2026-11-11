@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-11-10 12:56",
+  "updated_at": "2026-11-11 13:00",
   "items": [
+    {
+      "title": "Southeast Government Center - City of Orlando (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdThLRHljTHk1Y0loNEtTM05jem55X3NxcjJBWWFvOGVzTjlyQ0VPTkZGZGprOGxKRGp5dWpRQmxGelNNc3I5QkdGbGJaNjN2azg3SVhHdHlIZkNObGlwUTUyWENfeUFNcVpaT25kWWtKekQzYmttMnNYeF9DVmtSV2RwR0lfWWkxQXYxd2RJQQ?oc=5",
+      "published": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "query": "Florida commercial building maintenance RFP Orlando"
+    },
     {
       "title": "Contracts for Sept. 8, 2026 - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlVuSjlLYmZzSm05SWlqZTRLTzN5NTdCbGRiUVpTRThSa1ZTN1M5SlpZanBaYnZRRDUyRHdJNHpPZjd2ekNZOEtvVUNwd2VTRERlbUZCU0lsRjFOb1dFSlRZaFlxRE1HSE9wVTBqV2JuZ0xuRklhWG5FdVZ4aGJsSGViNF9RX0pLSkxoMU93dw?oc=5",
@@ -14,21 +20,15 @@
       "query": "Florida commercial building maintenance RFP Orlando"
     },
     {
-      "title": "Orlando plans for a future-ready city - City of Orlando (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamdpN2NvanotSXQyaEdqbjF5SGNvRFJ3RFdTOGtjci15ajdiN01NS2JORWVXU3VKWEpqUVBQcHdhNV8tUk0yTVF6bHViU0cxdlhCby1ldlFuYWRlQVBndEdHMWJ3UjgwbWJGZGpQOGs4Tkh6OVlkb0J5V09vejhFQUNn?oc=5",
-      "published": "Tue, 26 Apr 2022 20:29:31 GMT",
+      "title": "Aaron Moreno launches bid for West Palm Beach Mayor, citing public safety concerns - Florida Politics",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbWRLSVFfTGtXcWJpaGUyUExOTDNOa0k5OVpFaTJWSVpacWdPUUd1NlR3NDk1S0J3MVY5M3VTN0tfZG9nUC1hNWl2cU5UVTF1U3lnZVlLSG01c0hfVGJTbnhLYW9sYmFBTjZXZGJxS250N01HQzhzVnpnRXNhWFZBY1lIbmhRSF9UOFkxUE5EMFhlWWExdl9pMzQ1aDRfeEg2aW5YU1I1N0VRTGItdVhJbk9DSlhRb2lXcGVTZnNuMU85bW81?oc=5",
+      "published": "Thu, 26 Mar 2026 07:00:00 GMT",
       "query": "Florida commercial building maintenance RFP Orlando"
     },
     {
       "title": "Feds Investigate Roofer Bid-Rigging in Florida - Roofing Contractor",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFl4Qkk1ajdYZXBNS3RKTFNFbGk0ZDM0aWxvZXd5dURkdS01N2VETFcwT3lBYU42OHJoZUFLVEJPOEVyenEyWmJBZVI4UlZIaXh4T09ELU1RbjJnV1N6UUYzeXBGeFhINEFWOHhMWGFtaW5LWDhVeFA5N04xTk1CQUx6allWbVc1MlEyYlZKZVNTaXB5R2RDNjNEaFU?oc=5",
       "published": "Wed, 22 Jan 2025 08:00:00 GMT",
-      "query": "Florida commercial building maintenance RFP Orlando"
-    },
-    {
-      "title": "State auctioning off multimillion-dollar property in busy commercial Orlando area - Florida Politics",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0tfbGk0SnJMTDZ3VGhBS3RIaml4UW5OUGk4QndmeW1PalZJSXNIalBfdFh1emJFRTFZTjVORG9IQUNKR2FtdndQeS1vanpISHNfWktpWFFWN0JzTGJnZTRmcTNIcjdhX0ZzY1VmNEwtc2NRZ0xqdUdRXzQtSHNrODVMV3YyU1F4bVR0N3NsY0hOQmpFRnoyZlZFRkF3NGxoMDBZcEVZalNjU1I3bzhWeTg5T0ViT2NEM2x1NHozZ2hER25N?oc=5",
-      "published": "Tue, 12 Nov 2024 08:00:00 GMT",
       "query": "Florida commercial building maintenance RFP Orlando"
     },
     {
@@ -50,15 +50,27 @@
       "query": "Florida commercial building maintenance RFP Orlando"
     },
     {
-      "title": "Stormwater Utility Fee - City of Orlando (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaFJZT25EWTZGSXN4N243cUNzVHdCU2U4eUhjVzVMSUlfV2ZZSUdkOWxxSU41U2F3eHZSZ0hkc0U3cUZnUDlJTnR4SExFUXVzQndJUGl1dTBianUtVThSUHIxbEU2UGF5a1E0MlFDYXdCV2xmb3ZWbDVOdXBiTkRobGdCS2Nwem1WUjR0WEdvaXp3S0NNeWJUYTFOX20tSFI2WTRnTjBWaktUZE51TjNVcG9kZGRVaU1LelhlYmdEa1hwdjBQ?oc=5",
-      "published": "Fri, 28 Feb 2020 01:26:23 GMT",
+      "title": "Orlando plans for a future-ready city - City of Orlando (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamdpN2NvanotSXQyaEdqbjF5SGNvRFJ3RFdTOGtjci15ajdiN01NS2JORWVXU3VKWEpqUVBQcHdhNV8tUk0yTVF6bHViU0cxdlhCby1ldlFuYWRlQVBndEdHMWJ3UjgwbWJGZGpQOGs4Tkh6OVlkb0J5V09vejhFQUNn?oc=5",
+      "published": "Tue, 26 Apr 2022 20:29:31 GMT",
+      "query": "Florida commercial building maintenance RFP Orlando"
+    },
+    {
+      "title": "State auctioning off multimillion-dollar property in busy commercial Orlando area - Florida Politics",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0tfbGk0SnJMTDZ3VGhBS3RIaml4UW5OUGk4QndmeW1PalZJSXNIalBfdFh1emJFRTFZTjVORG9IQUNKR2FtdndQeS1vanpISHNfWktpWFFWN0JzTGJnZTRmcTNIcjdhX0ZzY1VmNEwtc2NRZ0xqdUdRXzQtSHNrODVMV3YyU1F4bVR0N3NsY0hOQmpFRnoyZlZFRkF3NGxoMDBZcEVZalNjU1I3bzhWeTg5T0ViT2NEM2x1NHozZ2hER25N?oc=5",
+      "published": "Tue, 12 Nov 2024 08:00:00 GMT",
       "query": "Florida commercial building maintenance RFP Orlando"
     },
     {
       "title": "Contracts For Sep. 25, 2025 - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbEUwM0JFTERJNHN0emFfLVRjbjNYOVhfcng2bFRBMzNWSUpnNV9vZGFBaHh1WE84WjQxRWFJRzlvMEtJbE41bHlSQlJFQ05xLUx3TnhRbXMwZGdveXdMNWdNUVdjUEJvV0dYMl8yTHZ2WG9NdkpwUjNYQjlKN05ETWRxZUlZVmNDeWJpT1ZRUQ?oc=5",
       "published": "Thu, 25 Sep 2025 07:00:00 GMT",
+      "query": "Florida commercial building maintenance RFP Orlando"
+    },
+    {
+      "title": "Stormwater Utility Fee - City of Orlando (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaFJZT25EWTZGSXN4N243cUNzVHdCU2U4eUhjVzVMSUlfV2ZZSUdkOWxxSU41U2F3eHZSZ0hkc0U3cUZnUDlJTnR4SExFUXVzQndJUGl1dTBianUtVThSUHIxbEU2UGF5a1E0MlFDYXdCV2xmb3ZWbDVOdXBiTkRobGdCS2Nwem1WUjR0WEdvaXp3S0NNeWJUYTFOX20tSFI2WTRnTjBWaktUZE51TjNVcG9kZGRVaU1LelhlYmdEa1hwdjBQ?oc=5",
+      "published": "Fri, 28 Feb 2020 01:26:23 GMT",
       "query": "Florida commercial building maintenance RFP Orlando"
     },
     {
@@ -74,27 +86,21 @@
       "query": "Tampa facility maintenance contractor bid"
     },
     {
-      "title": "The Burg Bid Selected To Redevelop 86-Acre Historic Gas Plant District In St. Petersburg - Florida YIMBY",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2R2WWZhYS12dmVjX3o3djBjWklRemRLaHZGSjRfdDlVMEs5YjlxSF82T3pqZlBERkFYUHd3RDRXOWswT1JidFFoVF9xRDBRY29nQ25WdGppelRVVEdTcVZjbE9xcGtWRzZXVzFHa054UEJSbGhEQl90d2JJbUw2NExtWUQzcWZ2b2dxVlVHeGk1eHBnQ2l3ZDJaQ3RZZ3Aybkx3V2RheDBKbm9Xam4xWFQ3VElHOFR4MXJhQ0xDWkhoakU?oc=5",
-      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "query": "Tampa facility maintenance contractor bid"
-    },
-    {
       "title": "Contracts for Sept. 30, 2026 - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmFqNEl5VG5Cd2c2UExSWW1jSWh5Q2dtazN2NUp3eDNmd3E1ZHBuTjhxSTgyaWF3Z3owWEx2S0NEeV9GZDN3RFVBVHFEVEZVb19NdGZYMktZUzV6ZDZGUEJZYUFSdFY4MWpkZUI2cGxVRF9uVDFDUjhGZTVGRUVKLV9iOWdHTXlBY1V0X3hXRlQ?oc=5",
       "published": "Wed, 30 Sep 2026 07:00:00 GMT",
       "query": "Tampa facility maintenance contractor bid"
     },
     {
-      "title": "Controversial group wins $158M-contract to represent unaccompanied immigrant children - NPR",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XZHlIQnhBbElpYjgzdldTTjM5OHpXeW4yTXIxSDBOcVZXTkxDcGl1Z2RBdkV3eDdxdks0dWxJbWpOcHN5T0QzVkNFaWFhSUF4VzJITVZYMzFya05oaFAySHppSHFRYThfaC1iTkFCY2VvZjdPdkg1Y0pDNWw?oc=5",
-      "published": "Wed, 12 Aug 2026 07:00:00 GMT",
+      "title": "The Burg Bid Selected To Redevelop 86-Acre Historic Gas Plant District In St. Petersburg - Florida YIMBY",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2R2WWZhYS12dmVjX3o3djBjWklRemRLaHZGSjRfdDlVMEs5YjlxSF82T3pqZlBERkFYUHd3RDRXOWswT1JidFFoVF9xRDBRY29nQ25WdGppelRVVEdTcVZjbE9xcGtWRzZXVzFHa054UEJSbGhEQl90d2JJbUw2NExtWUQzcWZ2b2dxVlVHeGk1eHBnQ2l3ZDJaQ3RZZ3Aybkx3V2RheDBKbm9Xam4xWFQ3VElHOFR4MXJhQ0xDWkhoakU?oc=5",
+      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
       "query": "Tampa facility maintenance contractor bid"
     },
     {
-      "title": "Tampa Bay Rays release memorandum outlining framework for new $2.3B stadium plan in Hillsborough County - FOX 13 Tampa Bay",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ205LUNEYktkaHZQdHR2eWF3R2FIczNMWVdRdi1Ud0oxNjlwbVlHNjQ4MmVaSTh1NXQwQzBjT3JOVHdOT1ZEM2ZXNERDSjA2OGRvVHU2c2gtSk9QVmRSM0xkLWJ1eFQ5UG9jTkVpRGVEbThYYzNrczkwU1NWMk5LRXZjcTZvaGNWY2ZDS0ZaT0NWSjF0OHoyYkZQYU0?oc=5",
-      "published": "Thu, 09 Apr 2026 07:00:00 GMT",
+      "title": "Controversial group wins $158M-contract to represent unaccompanied immigrant children - NPR",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XZHlIQnhBbElpYjgzdldTTjM5OHpXeW4yTXIxSDBOcVZXTkxDcGl1Z2RBdkV3eDdxdks0dWxJbWpOcHN5T0QzVkNFaWFhSUF4VzJITVZYMzFya05oaFAySHppSHFRYThfaC1iTkFCY2VvZjdPdkg1Y0pDNWw?oc=5",
+      "published": "Wed, 12 Aug 2026 07:00:00 GMT",
       "query": "Tampa facility maintenance contractor bid"
     },
     {
@@ -110,27 +116,21 @@
       "query": "Tampa facility maintenance contractor bid"
     },
     {
-      "title": "One of New Mexico\u2019s largest construction projects out for bid - Albuquerque Business First - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTVWSjVNVC0zOUxSbjFVd3pvWFA5Tm0waUl0OHk2aEFJaE5odW9MeFhwcXJEb3VPWERWM2dPYk9BQk1sZG1VY3FBTmZublQyUjdSTkl3RlU4X2lXZVBPUV8wUGJmNTRvSlFlVk1lMExMcFdGTDB6T1FjbmhPelNXVllUYVRPZi13ekM5N2p0azFvOGtjTzdyTlRDVDdKWEdZTFVz?oc=5",
-      "published": "Thu, 20 Nov 2025 08:00:00 GMT",
-      "query": "Tampa facility maintenance contractor bid"
-    },
-    {
       "title": "DeSoto Memorial Hospital accepts Tampa General's lease proposal to take over operations - WUSF",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdHgydVMtUkFRQTJEcXBhZFlZMXBjaGZCbk56cFBoWDNHZ2s1YlhaRUVjdW5pZ2dGM3gyLUVLTEdKWFlDOTZKT1oxOWtFaXZxckZwNDdxV1YxbWVKUlowUkxpOEpBNnNaWDlyQ1ZoVlZsQXRzWkI3eUt5ZWhBc0tQRWtUN0dpNGd6YUFvbWd4Qm1DamFYUVptUkt3a1ZwaW1uRm9kUGtBeG1ZaTVJX0IzQ2J1ZHAwNDUybFpVZS1YZG5qeGUzZTd5SkR2NlB0YnZUaVdPaw?oc=5",
       "published": "Fri, 14 Nov 2025 08:00:00 GMT",
       "query": "Tampa facility maintenance contractor bid"
     },
     {
-      "title": "Micron awards Gilbane preconstruction contract on $100B plant - Construction Dive",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQXzVZVGxISVRFNVRhdzlKakpBZGRZbG5YQTdRRzFYSFNUbEo2dXNjMnJSUFQ0MG56UDVXVGg3U2lIeG9TbTlSdy1fcnlLajhHa3M1ZlVIV2ZzZkducTBiTDFuWWYwSy00RUYzdXpXTERnWmkteFFtcWtVell2UFoxWG5kd284eERhTzU0?oc=5",
-      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
-      "query": "Tampa facility maintenance contractor bid"
-    },
-    {
       "title": "Pinellas County highlights front-runners to lead ambitious government complex project - The Business Journals",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkFPaERwdlN0UkkzcUkxeXNNYmE5cDVla1pGN2k2R19IMGhXcV9WNlZMY2pXeG5sa05HT3ZRR3ZnNEE3UkxyQmNhakpYd0ZqWjkxUE9QWF9OR3JfbEtzNDVNS1VfemZyOHRSNGczeTdyVGx2MWFEaDI2RGZSbEw1UDVzNkpiU3p5aU9yTDMtVnRQV1hZek1fcW9jR3RnX1E3MWc?oc=5",
       "published": "Wed, 30 Apr 2025 07:00:00 GMT",
+      "query": "Tampa facility maintenance contractor bid"
+    },
+    {
+      "title": "Micron awards Gilbane preconstruction contract on $100B plant - Construction Dive",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQXzVZVGxISVRFNVRhdzlKakpBZGRZbG5YQTdRRzFYSFNUbEo2dXNjMnJSUFQ0MG56UDVXVGg3U2lIeG9TbTlSdy1fcnlLajhHa3M1ZlVIV2ZzZkducTBiTDFuWWYwSy00RUYzdXpXTERnWmkteFFtcWtVell2UFoxWG5kd284eERhTzU0?oc=5",
+      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
       "query": "Tampa facility maintenance contractor bid"
     },
     {
@@ -158,6 +158,12 @@
       "query": "Tampa facility maintenance contractor bid"
     },
     {
+      "title": "Contracts For Sep. 30, 2024 - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3hJLXZxQ2ZjS0hDdTltVzlqb0FkS2dfM2JKem1MVVBXSVZmTVVTLUprN0h1MU91SkU4Y1RxRXlBemJINHZjMUNuN1FRQWNwVkNEQkloQXFfWlo5WE1lZFJzZTl6ZlJNeUtFX0F3Q2Y0MkVWbzZuNXBrdFFSbW1UcEN3S2pTM2FGRVV3Sm9EWQ?oc=5",
+      "published": "Mon, 30 Sep 2024 07:00:00 GMT",
+      "query": "Tampa facility maintenance contractor bid"
+    },
+    {
       "title": "Visit More Than 200 Exhibitors With Tools to Help YOUR Business - | Florida Realtors",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XNG1PQnNzOUlOLXVMYlktdTkyN0I4YWhaS21uaUpDQ2VWenhub19oSmY2eUM3ZDVQcGpaaV95YVo4cnVjWTRKSDJ0cFo0Zjg1NXhEVVcySjluMTNQQmgyaHVpeHd4ZzRsbVJFOFhER05TbE1YNGc?oc=5",
       "published": "Mon, 24 Aug 2026 07:00:00 GMT",
@@ -182,16 +188,22 @@
       "query": "Orlando commercial property management vendor maintenance"
     },
     {
-      "title": "What\u2019s Driving Industrial Property Management Today - CommercialSearch",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXUtME1rS1NqbWVmRXZWZVpuT2dxWnZ2SEdfcXNTNWg2QzFuMjBadkprVW9MRHdFVHJCUENBY3lpM1R5al9fc1ZKRXY5QTRLeDM0cWdtaEhuOU9SRm5ybVlscUtWM0tYT3UyMFV4Q0tReXNFX29lTzRLUGtqMEtJNE9vYTZrbERjNGRUWjlRb2xQN0E?oc=5",
-      "published": "Thu, 28 Jul 2022 07:00:00 GMT",
-      "query": "Orlando commercial property management vendor maintenance"
-    },
-    {
       "title": "New Orlando businesses for week of Feb. 9 - Orlando Sentinel",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbm9yU0RBMmRSV09XTlNlaXJEZVpXU1RsYkZKMWxUV1BwTW10V3AzRWpkekJJQ1hkeExVb20zTDJrM1JfWWd5Qlp6aExBdFg5VG5YR05wYTBQZkVCaFdKUlFPYmV3VUo5anBnU2s2WExPTkJZaEZqX0Izby1EdkllMkVhci02UC1nU2dycQ?oc=5",
       "published": "Mon, 30 Mar 2020 07:00:00 GMT",
       "query": "Orlando commercial property management vendor maintenance"
+    },
+    {
+      "title": "Florida Governor's Mansion faces sweeping $20M renovation - Tallahassee Democrat",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMS1QZm5oaUtVenJkbV9sOWhnYTZhOFRpZ3ZvdmlMVmgwcFI4UXJ0N1NqUnNwMWxBaFdidHdhdXU1dzI3aUFUSkluN3hiVFkxRjNHZjgwMzZVdW9UMlF3ZDRVdUFYZkd4Q3gyd0JGcjFBWmNfTmk1dndpZW9DOUw5Yk5IZ1FvUGxQWXczTnJLbzZLX2VzY0kzeU9NNWpjLXFhanRRcFh4NWhkcTNjZy1wMmNHOWp2MThrU0k0YXF6UVk4dEpKc3hRUGxIaFpIS0U?oc=5",
+      "published": "Wed, 11 Nov 2026 10:02:00 GMT",
+      "query": "Florida government building repairs invitation to bid"
+    },
+    {
+      "title": "Common Repairs Needed After a Home Inspection: What Must Sellers Fix? - Realtor.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80TU5ZZnBCRW5lbEtuaV9kdl9LZmRiOXBUUzdIUHRnemZOeXZpZzRJVHE1OHl4OUVXVFJLRGhPYTNNc2FiZHpTRG5jSVFUdGVwSlVHSnhQSVMwbFlKbWxVX3N3ZlZPVkhGVUhJ?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "query": "Florida government building repairs invitation to bid"
     },
     {
       "title": "Maxwell: Gray gets campaign boost. Debates get dodged. - Orlando Sentinel",
@@ -206,9 +218,21 @@
       "query": "Florida government building repairs invitation to bid"
     },
     {
+      "title": "Trump is using a $500M no-bid contract to build his White House ballroom - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXpOZk11NjBhVlNtSGJsTDcyMnA0Yy1PSzg4WlIyUy12Y19lVjh1WngwVlpGS1NzTmhBUXVoT21ZcVR4ZDI4MnpFdDJoX05oY1docVRpenlPandpUnhMNUJPQmtUVC1pQW5adFJ0SHBxTl9ReXc4cURkLVJhR09tZ2hSellTMWkzTHlIb3BXemw1UzlkQ3hVbV8zWUlVZFNnV3Bpd0dsSEU1QjZKdzVTWlln?oc=5",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "query": "Florida government building repairs invitation to bid"
+    },
+    {
       "title": "Firm Tied to Trump Donor Got No-Bid Contract to Clean Reflecting Pool - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0h0bHdrRTNSYkJ3bEtIUDUyUVNWbTQyMlY0NUlYY0dnNzNQUFp0bUxmWXRBeXViWThhbU8zWWNXc0x1ZV9oOTNnUW4teEowSjJRcXB6NmxZNlQycm9kMmVhcFBleTRITU1hSTYwd1VDUFZXX2ItS08yRHE0eWlWRENPTlNpaG85Yllvc3ktcDFudw?oc=5",
       "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "query": "Florida government building repairs invitation to bid"
+    },
+    {
+      "title": "How DeSantis signed away $1 billion for state-run immigrant detention centers - Miami Herald",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZXdkVUFuNFg2eTc0UWotRzhYR0lBdExqWnNJdVBlc3lEd3dGWGJjNXVfc3B0SDhHeUVpREt0M2NhdVA5Z1NoRFB5TVBwU1hHbEIxeEtvTGNHb2Zhb2dhTy1JTG5wSkEtandXbmluRW02MFFQYVVRU2NISEpjTlp6bTlZYjlxYktZdU50dURsR0JyLW8?oc=5",
+      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
       "query": "Florida government building repairs invitation to bid"
     },
     {
